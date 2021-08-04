@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		340A88A726B9AFF5009E6351 /* Minesweeper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Minesweeper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		340A88AA26B9AFF5009E6351 /* MinesweeperApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinesweeperApp.swift; sourceTree = "<group>"; };
-		340A88AC26B9AFF5009E6351 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		340A88AC26B9AFF5009E6351 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 1; };
 		340A88AE26B9AFF8009E6351 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		340A88B126B9AFF8009E6351 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		340A88B326B9AFF8009E6351 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
